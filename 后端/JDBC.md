@@ -1,13 +1,4 @@
----
-title: JDBC
-date: 2022-11-19 19:36:36
-tags: "JDBC"
-categories: "JDBC"
-updated: 2022-11-19
-description: "在开发中我们使用的是java语言，那么势必要通过java语言操作数据库中的数据。这就是接下来要学习的JDBC。"
-comments: true
-swiper_index: 9
----
+
 ## JDBC
 
 **今日目标**
